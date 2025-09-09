@@ -7,30 +7,31 @@ It reflects my learning journey across multiple semesters, applying analytical a
 
 ## 📂 Projects
 
-- [**Portfolio 1 – Exploratory Analysis of E-commerce Data**](./Portfolio%201/Portfolio_1_questions.ipynb)  
+### 📌 COM6200_Data Science
+- [**Portfolio 1 – Exploratory Analysis of E-commerce Data**]("C:\Users\Tassa\OneDrive\Documents\GitHub\Tassara-Portfolio-\COM6200-Portfolio 1\Portfolio_1_questions.ipynb")  
   Cleaned and prepared raw dataset, performed Exploratory Data Analysis (EDA), and visualised purchasing patterns.  
 
-- [**Portfolio 2 – Predictive Analytics with Regression**](./Portfolio%202/new_Portfolio_2_questions_(2024_S1)%20(2).ipynb)  
+- [**Portfolio 2 – Predictive Analytics with Regression**]("C:\Users\Tassa\OneDrive\Documents\GitHub\Tassara-Portfolio-\COM6200-Portfolio2\new_Portfolio_2_questions_(2024_S1) (2).ipynb")  
   Built regression models to predict customer ratings, evaluated model performance, and reflected on business applications.  
 
 ---
 
 
-- [**Portfolio 3 – Classification Models**](./Portfolio%203/Portfolio_Part_3_(2024_S1)_Questions.ipynb)  
+- [**Portfolio 3 – Classification Models**]("C:\Users\Tassa\OneDrive\Documents\GitHub\Tassara-Portfolio-\COM6200-Portfolio3\Portfolio_Part_3_(2024_S1)_Questions.ipynb")  
   Applied K-Nearest Neighbors (KNN) and Naïve Bayes Classifier (NBC), analysed accuracy, and compared trade-offs.  
 
-- [**Portfolio 4 – Data Science Workflow Project**](./Portfolio%204/Porfolio4_Tassara.ipynb)  
+- [**Portfolio 4 – Data Science Workflow Project**]("C:\Users\Tassa\OneDrive\Documents\GitHub\Tassara-Portfolio-\COM6200-Portfolio4\Porfolio4_Tassara.ipynb")  
   Designed an end-to-end data science workflow using the MPG dataset, covering cleaning, modelling, and reporting.  
 
 ---
 
-- [**Koala Conservation Research Project (BUSA8000)**](./Koala%20Conservation/BUSA8000-Data%20Analyst%20for%20Australian%20Koala%20Conservation%20Research.ipynb)  
+- [**Koala Conservation Research Project (BUSA8000)**]("C:\Users\Tassa\OneDrive\Documents\GitHub\Tassara-Portfolio-\BUSA8000-Data Analyst for Australian Koala Conservation Research\BUSA8000-Data Analyst for Australian Koala Conservation Research.ipynb")  
   Performed EDA and hypothesis testing on environmental datasets, provided conservation insights and policy recommendations.  
 
 - **Additional Practicals & Workshops**  
-  - [Analysing MPG Data](./Practicals/Analysing-MPG%20Data.ipynb)  
-  - [KNN + NBC Techniques](./Practicals/KNN+NBC%20Techniques%20practical.ipynb)  
-  - [Data Science Workflow Practical](./Practicals/Practical-workshop-Data%20Science%20work%20flow.ipynb)  
+  - [Analysing MPG Data]("C:\Users\Tassa\OneDrive\Documents\GitHub\Tassara-Portfolio-\Analysing-MPG Data.ipynb")  
+  - [KNN + NBC Techniques]("C:\Users\Tassa\OneDrive\Documents\GitHub\Tassara-Portfolio-\KNN+NBC Techniques practical.ipynb")  
+  - [Data Science Workflow Practical]("C:\Users\Tassa\OneDrive\Documents\GitHub\Tassara-Portfolio-\Practical-workshop-Data Science work flow.ipynb")  
 
 ---
 
