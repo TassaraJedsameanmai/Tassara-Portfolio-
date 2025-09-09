@@ -24,11 +24,12 @@ It reflects my learning journey across multiple semesters, applying analytical a
   Designed an end-to-end data science workflow using the MPG dataset, covering cleaning, modelling, and reporting.  
 
 ---
+### 📌 BUSA8000_Techniques in Business Analytics
 
 - [**Koala Conservation Research Project (BUSA8000)**](https://github.com/TassaraJedsameanmai/Tassara-Portfolio-/blob/main/BUSA8000-Data%20Analyst%20for%20Australian%20Koala%20Conservation%20Research/BUSA8000-Data%20Analyst%20for%20Australian%20Koala%20Conservation%20Research.ipynb)  
   Performed EDA and hypothesis testing on environmental datasets, provided conservation insights and policy recommendations.  
 
-- **Additional Practicals & Workshops**  
+### 📌 Additional Practicals & Workshops
   - [Analysing MPG Data](https://github.com/TassaraJedsameanmai/Tassara-Portfolio-/blob/main/Analysing-MPG%20Data.ipynb)  
   - [KNN + NBC Techniques](https://github.com/TassaraJedsameanmai/Tassara-Portfolio-/blob/main/KNN%2BNBC%20Techniques%20practical.ipynb)  
   - [Data Science Workflow Practical](https://github.com/TassaraJedsameanmai/Tassara-Portfolio-/blob/main/Practical-workshop-Data%20Science%20work%20flow.ipynb)  
